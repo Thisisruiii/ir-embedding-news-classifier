@@ -1,8 +1,6 @@
 # AG News Topic Classifier Using Sentence Embeddings
 
-This repository contains an embedding-based text classification project for an Information Retrieval assignment. The goal is to classify short news texts into four categories: **World**, **Sports**, **Business**, and **Sci/Tech**.
-
-The system uses sentence embeddings from `sentence-transformers/all-MiniLM-L6-v2` and a Logistic Regression classifier. A working demo is deployed on Hugging Face Spaces.
+This repository contains an embedding-based text classification project for an Information Retrieval assignment. The goal is to classify short news texts into four categories: **World**, **Sports**, **Business**, and **Sci/Tech**.The system uses sentence embeddings from `sentence-transformers/all-MiniLM-L6-v2` and a Logistic Regression classifier.
 
 ## Links
 
